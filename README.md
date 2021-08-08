@@ -1,6 +1,6 @@
 <h1>ESDE Assignment Part 2 Design Competition Website</h1>
 
-Team Members: Ralph Gerard Ramirez (2026242), Kannan Medhun (2034672)<br>
+Team Members: Ralph Gerard Ramirez , Kannan Medhun s<br>
 
 <h2>Description</h2>
 
